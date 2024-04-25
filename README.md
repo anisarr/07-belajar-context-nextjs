@@ -4,8 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![alt text](asset-report/01.png)
 
 ## Praktikum 2
-
-Jawaban Soal 4
 ![alt text](asset-report/02.png)
 
 ## Praktikum 3

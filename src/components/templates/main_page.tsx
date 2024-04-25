@@ -4,7 +4,7 @@ import Section from "../atoms/section";
 export default function MainPage() {
     return (
         <Section>
-            <Heading level={1}>Title</Heading>
+            <Heading level={1}>Anisa Rahmasari | 2141720216</Heading>
             <Section>
                 <Heading level={2}>Heading</Heading>
                 <Heading level={2}>Heading</Heading>
